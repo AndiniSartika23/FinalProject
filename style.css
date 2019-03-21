@@ -1,0 +1,44 @@
+#wripper {
+    margin: 0% auto 0% auto;
+    background-color: inherit;
+    position: relative;
+    min-height: 100%;
+}
+
+#konten {
+    width: 60%;
+    height: 115%;
+    margin: 0% auto 0% auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 19px;
+    background: violet;
+    opacity: 0.95;
+    border-bottom-left-radius: 3%;
+    border-bottom-right-radius: 3%;
+}
+
+#topmenu {
+    height: 9%;
+    width: 100%;
+    background: #FFF;
+    text-align: center;
+    text-decoration: none;
+}
+
+#header {
+    width: 90%;
+    height: 45%;
+    margin: 0% auto 0% auto;
+    background: url(pink-lonely-chair-website-header-design.jpg);
+    opacity: 0.87;
+}
+
+#h3 {
+    color: black;
+}
+
+h4:hover {
+    text-shadow: 12px;
+    color: brown
+}
